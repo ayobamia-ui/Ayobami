@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Application Version: 1.1 - Main Branch Hotfix
 
+=======
+Application Version: 2.0 - Feature Branch
+>>>>>>> feature-update
